@@ -1,4 +1,4 @@
-# Dafe Newton Magege – Developer Portfolio
+# D Newton – Developer Portfolio
 
 Personal portfolio showcasing my web development, ecommerce, and UI/UX projects including WordPress, Elementor, Shopify, PHP/MySQL, React, TypeScript, and Figma designs.
 
